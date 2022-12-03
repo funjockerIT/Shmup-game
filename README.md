@@ -10,5 +10,5 @@
  
 Приятной игры!
 
-![Uploading image.png…]()
+
 
